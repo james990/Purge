@@ -1,0 +1,10 @@
+C:\MyProject\Purge\Purge\bin\Debug\Purge.exe.config
+C:\MyProject\Purge\Purge\bin\Debug\Purge.exe
+C:\MyProject\Purge\Purge\bin\Debug\Purge.pdb
+C:\MyProject\Purge\Purge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyProject\Purge\Purge\obj\x86\Debug\Purge.Properties.Resources.resources
+C:\MyProject\Purge\Purge\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MyProject\Purge\Purge\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MyProject\Purge\Purge\obj\x86\Debug\Purge.exe
+C:\MyProject\Purge\Purge\obj\x86\Debug\Purge.pdb
+C:\MyProject\Purge\Purge\obj\x86\Debug\Purge.Akamai.resources
